@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>AWS Data Migration</b>
+  - [A rundown of the Data Migration workshop offered by AWS](https://github.com/Lucas-Tonoli/AWS-Data-Migration/)
 
 <h2>📃 Certificates</h2>
 
